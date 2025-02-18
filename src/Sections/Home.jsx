@@ -5,7 +5,7 @@ import Bestseller from '../Components/Bestseller';
 import Exchangepolicy from '../Components/Exchangepolicy';
 
 import Footer from '../Components/Footer';
-import Supscriptionbox from '../Components/supscriptionbox';
+import Supscriptionbox from '../Components/Supscriptionbox';
 
 const Home = () => {
   return (
